@@ -8,7 +8,8 @@ It is a type of software developer. They create and implement programs for backe
 * Create solutions and fixes the program
 * Discuss with clients and propose solutions with other developers 
 
-
+**Required education:**
+You need a bachelor's degree related to computer science or software development
 
 **Technical and non technical skills:**
 
