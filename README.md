@@ -4,6 +4,9 @@
 ### Systems Engineer
 It is a type of software developer. They create and implement programs for backend processing systems. Organizations and companies hire these developers and mostly work behind the scenes. An example of a program is a bank website. The average salary in Canada is $83465 per year.
 
+<p align="center">
+<img src= "https://www.utep.edu/extendeduniversity/utepconnect/blog/april-2018/systems-engineer.jpg"  width="30%" height="30%">
+
 **Responsibilities:**
 * Use tools to write and test codes in order to find any bugs 
 * Create solutions and fixes the program
@@ -26,8 +29,15 @@ Creativity - when creating ways to deal with bugs, it is better to find a effici
 * Strong knowledge of computer engineering and general software development
 
 ## **Standard Education**
-### University of Waterloo
-**Program:** [Systems design engineering (COOP only)]("https://uwaterloo.ca/future-students/courses/systems-design-engineering")
+
+### University of Waterloo <img src= "https://images.deepai.org/organization/university-of-waterloo.png"  width="3%" height="3%">
+
+
+**Program:** [Systems design engineering (COOP only)](https://uwaterloo.ca/future-students/programs/systems-design-engineering)
+
+**Educational Institution:** Faculty of Engineering
+
+**Length to complete:** 5 years
 
 **Entrance requirements:**
 *All grades must be above 70%*
@@ -49,3 +59,10 @@ Creativity - when creating ways to deal with bugs, it is better to find a effici
 | SYDE 161          | Introduction to Design                      |
 | SYDE 181          | Physics 1                                   |
 
+**Diploma requirements:**
+* Take a full course load each academic term
+* Achieve at least a 60% term average in all academic terms after 1A
+* You may not proceed if you accumulate three or more failed courses
+* Two years of COOP
+
+## **Experiential Learning**
