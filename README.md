@@ -184,4 +184,28 @@ The Mechatronics, Mirrors and Lighting group specializes in automotive technolog
 * Advanced level C, Assembly language, Labview, Lab windows or other software design/test tools
 * Understanding of standard software process and industry requirements AutoSpice, CMMI, IEEE, MISRA
 
-## Works Cited
+## **Works Cited**
+
+“CEC - CFES | FCEG.” CFES | FCEG, 17 Aug. 2022, cfes.ca/cec/. Accessed 11 Oct. 2022.
+
+“Computer Science Job Shadowing Jobs in Ontario (with Salaries) 2022 | Indeed.com Canada.” Indeed.com, 2022, ca.indeed.com/Computer-Science-Job-Shadowing-jobs-in-Ontario?vjk=96becaaac6907e7d. Accessed 11 Oct. 2022.
+
+‌“Entry Level Systems Engineer Jobs (with Salaries) 2022 | Indeed.com Canada.” Indeed.com, 2022, ca.indeed.com/Entry-Level-Systems-Engineer-jobs?vjk=0144efdba1104c1b. Accessed 11 Oct. 2022.
+
+Lekshmi. S. “10 Vital Non-Technical Skills a Software Developer Should Have.” Neoito Blog, Neoito Blog, 9 June 2021, www.neoito.com/blog/non-technical-skills-of-developers/. Accessed 7 Oct. 2022.
+
+“Senior Level Systems Engineer Jobs (with Salaries) 2022 | Indeed.com Canada.” Indeed.com, 2022, ca.indeed.com/jobs?q=Senior+Level+Systems+Engineer&l=&vjk=28ed99d9aaac26d0&advn=7089227626688955. Accessed 11 Oct. 2022.
+
+“Systems Administrator Jobs (with Salaries) 2022 | Indeed.com Canada.” Indeed.com, 2022, ca.indeed.com/jobs?l=&q=systems+administrator&from=career&vjk=53734ede2b6b5e38. Accessed 11 Oct. 2022.
+
+“Systems Design Engineering.” Undergraduate Programs, 8 July 2021, uwaterloo.ca/future-students/courses/systems-design-engineering. Accessed 9 Oct. 2022.
+
+“Systems Developer: Job Description.” Targetjobs, targetjobs, 28 June 2012, targetjobs.co.uk/careers-advice/job-descriptions/systems-developer-job-description. Accessed 7 Oct. 2022.
+‌
+‌“System Engineer Apprenticeship Training Program Jobs, Employment | Indeed.com.” Indeed.com, 2022, www.indeed.com/jobs?q=System+Engineer+Apprenticeship+Training+Program&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt&vjk=d2d0fadae0bd7cdb. Accessed 11 Oct. 2022.
+
+“System Engineer Salary in Canada.” Indeed.com, 2022, ca.indeed.com/career/system-engineer/salaries. Accessed 11 Oct. 2022.
+
+“Systems Engineering in Practice Workshop.” Eggler Institute of Technology, 25 June 2022, egglertechnology.com/seworkshop/. Accessed 11 Oct. 2022.
+
+‌“What Is a Systems Engineer (and How Do I Become One)?” Coursera, 2022, www.coursera.org/articles/ systems-engineer. Accessed 7 Oct. 2022.
