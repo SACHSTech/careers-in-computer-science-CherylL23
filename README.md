@@ -79,7 +79,45 @@ This role is for a new or recent graduate of a technology degree or training pro
 * Deepen your experience with dev tooling including git, swagger, Visual Studio, etc.
 * Lay the foundation for a career in the tech industry, including options in product management, project management, sales, DevOps, infrastructure, QA, and more.
 
+**Apprenticeship program:**
 
+*IoT Product Management Apprenticeship*
+Our Apprentice Product Manager (APM) program is dedicated to developing the next generation of product leaders. During your first year as an APM, you’ll gain the skills you need to become a product manager at Leverege, while working alongside some of the best in the business in IoT. This opportunity is perfect for recent college graduates or career changers looking for their break-through opportunity in product management. There are no academic requirements for this program. Whatever your background, if the role sounds interesting, we encourage you to apply.
+
+*Create a portfolio of newly learnt skills:*
+* Creative and clear storyteller; Exceptional communicator, both verbal and written
+* Sharp at problem-solving, critical thinking, user experience, and systems thinking. Knows how to use data to support intuition
+* An obsession with product quality and an eye for design
+* Self-starter and fast learner
+* Deeply motivated to deliver high-impact solutions to users
+* Strong project management abilities
+* Biased towards action and speed of delivery
+* Ability to effectively prioritize and execute in an ambiguous, dynamic environment with shifting priorities
+* Takes a high degree of ownership and responsibility in all situations
+
+**WorkShop:**
+
+*Systems Engineering in practise (5 Day course)*
+
+This innovative and highly-practical systems engineering training course teaches essential practice-based knowledge needed to design of complex systems. Using the latest ISO 15288 systems engineering processes, you will learn how to develop:
+* coherent and integrated operational models using the latest scenario driven methods and visual diagramming techniques,
+* integrated system functional and physical architectures using thread based analysis techniques,
+* functional models using the latest functional analysis and requirement development methods; correctly scoped systems engineering programs by coherently integrating engineering management, technical and verification work packages,
+* integrated system models using a modern, easy to use system engineering tool, and automatically 
+* generate fully traceable systems engineering products, such as the Operational Concept Document (OCD), Concept of Operations (CONOPS), Functional and Performance Specification (PSPEC or FPS), Systems Description Document (SDD), Sub-system Specification (SSS) and Interface Control Document (ICD).
+
+*Workshop schedule:*
+
+<img src= "https://egglertechnology.com/wp-content/uploads/2020/04/SE-Workshop-timetable-5-days.jpg"  width="60%" height="60%">
+
+**Competition:**
+
+*Canadian engineering competition*
+
+Each year, the Canadian Engineering Competition (CEC) brings together over 200 of the most innovative and creative engineering undergraduate students from across the nation to compete against each other in eight categories (Junior Design, Senior Design, Innovative Design, Engineering Consulting, Parliamentary Debate, Re-engineering, Programming, and Engineering Communication). Each competition category at CEC challenges its participants to expand their frame of reference and to identify solutions to problems experienced by our profession. Established in 1985, and hosted yearly at a constituent school, CEC is a highly selective competition. Those invited must first best their peers at their own intra-school competition, and then must achieve a top performance at their respective regional competition.
+
+*Experience*
+The competition represents a valuable opportunity for industry participation and support, and sponsors and contributors propose real-world case studies for competition themes. The judges are drawn from related industry fields, or academia, and share their experiences with the competitors throughout the weekend as they network with the top up-and-coming engineers.
 
 
 ## **Real Jobs**
@@ -145,3 +183,5 @@ The Mechatronics, Mirrors and Lighting group specializes in automotive technolog
 * Understanding of the Vehicle and Component Level Diagnostics protocols
 * Advanced level C, Assembly language, Labview, Lab windows or other software design/test tools
 * Understanding of standard software process and industry requirements AutoSpice, CMMI, IEEE, MISRA
+
+## Works Cited
